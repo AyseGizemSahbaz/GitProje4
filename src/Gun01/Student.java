@@ -6,5 +6,6 @@ public class Student {
         System.out.println("merhaba 1");
 
         System.out.println("tekrar merhaba ");
+        System.out.println("merhaba 3");
     }
 }
